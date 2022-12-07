@@ -1,0 +1,12 @@
+[submodule "sources/meta-sunxi"]
+	path = sources/meta-sunxi
+	url = git@github.com:matteolel/meta-sunxi.git
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "sources/poky"]
+	path = sources/poky
+	url = git@github.com:matteolel/poky.git
+[submodule "sources/meta-bananapi-m2-zero"]
+	path = sources/meta-bananapi-m2-zero
+	url = git@github.com:matteolel/meta-bananapi-m2-zero.git
